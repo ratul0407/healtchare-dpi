@@ -5,7 +5,7 @@
     "originalPrice": 30,
     "discount": 10,
     "price": 27,
-    "image": "https://openai.com/turn1image1"
+    "image": "https://medex.com.bd/storage/images/packaging/napa-500-mg-tablet-95324450053-i1-jtmMTho0xPmKADM1kMTq.jpg"
   },
   {
     "medicineName": "Amoxicillin 500mg",
@@ -13,7 +13,7 @@
     "originalPrice": 60,
     "discount": 15,
     "price": 51,
-    "image": "https://openai.com/turn0image5"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqKNg6dr-mdVz6oZ1rUAs3ccz0QVKTR4xnkA&s"
   },
   {
     "medicineName": "Omeprazole 20mg (Omenix)",
@@ -21,7 +21,7 @@
     "originalPrice": 50,
     "discount": 5,
     "price": 47.5,
-    "image": "https://openai.com/turn0image3"
+    "image": "https://medex.com.bd/storage/images/packaging/omenix-20-mg-capsule-38870037234-i1-OuG3EwT55In4S6uutpsX.png"
   },
   {
     "medicineName": "Aspirin 75mg",
@@ -29,7 +29,7 @@
     "originalPrice": 40,
     "discount": 10,
     "price": 36,
-    "image": "https://example.com/aspirin75mg.jpg"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEIa28f5N7BM0_KQtqcUZxXgQyRiXaekZq2A&s"
   },
   {
     "medicineName": "Ciprofloxacin 500mg (Ciprocin)",
@@ -37,7 +37,7 @@
     "originalPrice": 55,
     "discount": 12,
     "price": 48.4,
-    "image": "https://openai.com/turn0image2"
+    "image": "https://cdn.osudpotro.com/medicine/ciprocin-500-1631952244257.webp"
   },
   {
     "medicineName": "Cetirizine 10mg",
@@ -45,7 +45,7 @@
     "originalPrice": 25,
     "discount": 8,
     "price": 23,
-    "image": "https://openai.com/turn1image10"
+    "image": "https://lh3.googleusercontent.com/proxy/cIvtEsYTTr-NQzgrDHG6nBNMs8Fnb_ZRyqlyzKyYvwxk4tv1ewGCcj-igEH35qMS5x8EOYocRu8aLRnaY0b1MJAwwFwGnorI36vzKybwT7zlksqlSrgbqoMZZA"
   },
   {
     "medicineName": "Diclofenac Sodium 50mg",
@@ -53,7 +53,7 @@
     "originalPrice": 45,
     "discount": 10,
     "price": 40.5,
-    "image": "https://example.com/diclofenac50mg.jpg"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBE6I124UpA-RbJX4OVp4ClSYtY7YyEAbRMg&s"
   },
   {
     "medicineName": "Metformin 500mg",
@@ -61,7 +61,7 @@
     "originalPrice": 35,
     "discount": 5,
     "price": 33.25,
-    "image": "https://example.com/metformin500mg.jpg"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvHmLT8kmaJo58eOL70yrbHEHyBJS65Ebtyw&s"
   },
   {
     "medicineName": "Salbutamol Inhaler",
@@ -69,7 +69,7 @@
     "originalPrice": 420,
     "discount": 7,
     "price": 390.6,
-    "image": "https://example.com/salbutamol-inhaler.jpg"
+    "image": "https://5.imimg.com/data5/SELLER/Default/2023/7/324814785/HM/VX/SR/8612369/ventolin-inhaler-salbutamol.png"
   },
   {
     "medicineName": "Azithromycin 250mg",
@@ -77,7 +77,7 @@
     "originalPrice": 75,
     "discount": 10,
     "price": 67.5,
-    "image": "https://example.com/azithromycin250mg.jpg"
+    "image": "https://medex.com.bd/storage/images/packaging/azithrocin-250-mg-tablet-81101901493-i1-MUCDIs5YQCJDYOEZTcMk.jpg"
   },
   {
     "medicineName": "Vitamin D3 2000 IU",
@@ -85,7 +85,7 @@
     "originalPrice": 150,
     "discount": 10,
     "price": 135,
-    "image": "https://example.com/vitamin-d3-2000iu.jpg"
+    "image": "https://bdsupplementstore.com/wp-content/uploads/2025/07/Natures-Bounty-Vitamin-D3-2000-IU-Price-in-Bangladesh.jpg"
   },
   {
     "medicineName": "Calcium + Vitamin D Tablet",
@@ -93,7 +93,7 @@
     "originalPrice": 120,
     "discount": 15,
     "price": 102,
-    "image": "https://example.com/calcium-vitd.jpg"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFB6XwWM_JfBoGRweSqqUPvh8F91K3tTMmNA&s"
   },
   {
     "medicineName": "Pantoprazole 40mg",
@@ -101,7 +101,7 @@
     "originalPrice": 70,
     "discount": 10,
     "price": 63,
-    "image": "https://example.com/pantoprazole40mg.jpg"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTztpw_x9KktyBhEVMjCa0Ce4yUXUPMoycqCQ&s"
   },
   {
     "medicineName": "Multivitamin Syrup",
@@ -109,7 +109,7 @@
     "originalPrice": 180,
     "discount": 12,
     "price": 158.4,
-    "image": "https://example.com/multivitamin-syrup.jpg"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUnehWPvF3JsVgC2zjji65A6ZSMNuyiffmiw&s"
   },
   {
     "medicineName": "Insulin (10ml)",
@@ -117,7 +117,7 @@
     "originalPrice": 800,
     "discount": 5,
     "price": 760,
-    "image": "https://example.com/insulin-10ml.jpg"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtFpU1hYtoImgWJIbqQTnxB6ttNgxWPWQ6pA&s"
   },
   {
     "medicineName": "Ranitidine 150mg",
@@ -125,7 +125,7 @@
     "originalPrice": 40,
     "discount": 8,
     "price": 36.8,
-    "image": "https://example.com/ranitidine150mg.jpg"
+    "image": "https://cdn.sanity.io/images/zbeduy22/production/689996b81b017b69738bc90ea0207bf5bf2eb493-600x600.jpg"
   },
   {
     "medicineName": "Ibuprofen 400mg",
@@ -133,7 +133,7 @@
     "originalPrice": 50,
     "discount": 10,
     "price": 45,
-    "image": "https://example.com/ibuprofen400mg.jpg"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUCJprO-JnUYNRhT8g2aGRQLjGAJ1VA-Q3w&s"
   },
   {
     "medicineName": "Loperamide 2mg",
@@ -141,7 +141,7 @@
     "originalPrice": 30,
     "discount": 10,
     "price": 27,
-    "image": "https://example.com/loperamide2mg.jpg"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0i2WdKMjn2RYvr-UdiH5FsBp_mo6SdF93iQ&s"
   },
   {
     "medicineName": "Prednisolone 5mg",
@@ -149,7 +149,7 @@
     "originalPrice": 55,
     "discount": 15,
     "price": 46.75,
-    "image": "https://example.com/prednisolone5mg.jpg"
+    "image": "https://www.revolvemedicare.co.uk/wp-content/uploads/2025/01/Screenshot-2023-04-28-at-14.37.54.png"
   },
   {
     "medicineName": "Cetirizine + Montelukast",
@@ -157,6 +157,6 @@
     "originalPrice": 90,
     "discount": 10,
     "price": 81,
-    "image": "https://example.com/cetirizine-montelukast.jpg"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQOuVk4Fv91zdSFxZ_XrnWooJDgy50UAq3SQ&s"
   }
 ]
