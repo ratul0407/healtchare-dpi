@@ -1,0 +1,162 @@
+[
+  {
+    "medicineName": "Paracetamol 500mg (Napa)",
+    "manufacturer": "Beximco Pharmaceuticals Ltd",
+    "originalPrice": 30,
+    "discount": 10,
+    "price": 27,
+    "image": "https://openai.com/turn1image1"
+  },
+  {
+    "medicineName": "Amoxicillin 500mg",
+    "manufacturer": "Square Pharmaceuticals Ltd",
+    "originalPrice": 60,
+    "discount": 15,
+    "price": 51,
+    "image": "https://openai.com/turn0image5"
+  },
+  {
+    "medicineName": "Omeprazole 20mg (Omenix)",
+    "manufacturer": "Incepta Pharmaceuticals Ltd",
+    "originalPrice": 50,
+    "discount": 5,
+    "price": 47.5,
+    "image": "https://openai.com/turn0image3"
+  },
+  {
+    "medicineName": "Aspirin 75mg",
+    "manufacturer": "Renata Limited",
+    "originalPrice": 40,
+    "discount": 10,
+    "price": 36,
+    "image": "https://example.com/aspirin75mg.jpg"
+  },
+  {
+    "medicineName": "Ciprofloxacin 500mg (Ciprocin)",
+    "manufacturer": "Square Pharmaceuticals Ltd",
+    "originalPrice": 55,
+    "discount": 12,
+    "price": 48.4,
+    "image": "https://openai.com/turn0image2"
+  },
+  {
+    "medicineName": "Cetirizine 10mg",
+    "manufacturer": "APC Pharma Ltd",
+    "originalPrice": 25,
+    "discount": 8,
+    "price": 23,
+    "image": "https://openai.com/turn1image10"
+  },
+  {
+    "medicineName": "Diclofenac Sodium 50mg",
+    "manufacturer": "Renata Limited",
+    "originalPrice": 45,
+    "discount": 10,
+    "price": 40.5,
+    "image": "https://example.com/diclofenac50mg.jpg"
+  },
+  {
+    "medicineName": "Metformin 500mg",
+    "manufacturer": "Beximco Pharmaceuticals Ltd",
+    "originalPrice": 35,
+    "discount": 5,
+    "price": 33.25,
+    "image": "https://example.com/metformin500mg.jpg"
+  },
+  {
+    "medicineName": "Salbutamol Inhaler",
+    "manufacturer": "Square Pharmaceuticals Ltd",
+    "originalPrice": 420,
+    "discount": 7,
+    "price": 390.6,
+    "image": "https://example.com/salbutamol-inhaler.jpg"
+  },
+  {
+    "medicineName": "Azithromycin 250mg",
+    "manufacturer": "Incepta Pharmaceuticals Ltd",
+    "originalPrice": 75,
+    "discount": 10,
+    "price": 67.5,
+    "image": "https://example.com/azithromycin250mg.jpg"
+  },
+  {
+    "medicineName": "Vitamin D3 2000 IU",
+    "manufacturer": "ACI Limited",
+    "originalPrice": 150,
+    "discount": 10,
+    "price": 135,
+    "image": "https://example.com/vitamin-d3-2000iu.jpg"
+  },
+  {
+    "medicineName": "Calcium + Vitamin D Tablet",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd",
+    "originalPrice": 120,
+    "discount": 15,
+    "price": 102,
+    "image": "https://example.com/calcium-vitd.jpg"
+  },
+  {
+    "medicineName": "Pantoprazole 40mg",
+    "manufacturer": "Acme Laboratories Ltd",
+    "originalPrice": 70,
+    "discount": 10,
+    "price": 63,
+    "image": "https://example.com/pantoprazole40mg.jpg"
+  },
+  {
+    "medicineName": "Multivitamin Syrup",
+    "manufacturer": "Renata Limited",
+    "originalPrice": 180,
+    "discount": 12,
+    "price": 158.4,
+    "image": "https://example.com/multivitamin-syrup.jpg"
+  },
+  {
+    "medicineName": "Insulin (10ml)",
+    "manufacturer": "Novo Nordisk Bangladesh",
+    "originalPrice": 800,
+    "discount": 5,
+    "price": 760,
+    "image": "https://example.com/insulin-10ml.jpg"
+  },
+  {
+    "medicineName": "Ranitidine 150mg",
+    "manufacturer": "Square Pharmaceuticals Ltd",
+    "originalPrice": 40,
+    "discount": 8,
+    "price": 36.8,
+    "image": "https://example.com/ranitidine150mg.jpg"
+  },
+  {
+    "medicineName": "Ibuprofen 400mg",
+    "manufacturer": "Beximco Pharmaceuticals Ltd",
+    "originalPrice": 50,
+    "discount": 10,
+    "price": 45,
+    "image": "https://example.com/ibuprofen400mg.jpg"
+  },
+  {
+    "medicineName": "Loperamide 2mg",
+    "manufacturer": "Incepta Pharmaceuticals Ltd",
+    "originalPrice": 30,
+    "discount": 10,
+    "price": 27,
+    "image": "https://example.com/loperamide2mg.jpg"
+  },
+  {
+    "medicineName": "Prednisolone 5mg",
+    "manufacturer": "ACI Limited",
+    "originalPrice": 55,
+    "discount": 15,
+    "price": 46.75,
+    "image": "https://example.com/prednisolone5mg.jpg"
+  },
+  {
+    "medicineName": "Cetirizine + Montelukast",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd",
+    "originalPrice": 90,
+    "discount": 10,
+    "price": 81,
+    "image": "https://example.com/cetirizine-montelukast.jpg"
+  }
+]

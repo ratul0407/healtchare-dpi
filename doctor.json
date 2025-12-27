@@ -1,0 +1,34 @@
+[
+  {
+    "_id": "694f9e7c1ea8b5a5b2fae9a0",
+    "name": "Dr. Mamun Badsha",
+    "email": "mamun@gmail.com",
+    "phone": "019876543211",
+    "profilePhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj_b6EZrwzZDLD0GJ-2SfaNQHJnL493CC4UA&s",
+    "specialization": "Cardiology",
+    "qualification": "MBBS",
+    "address": "Dhaka Medical College",
+    "gender": "Male",
+    "age": 30,
+    "fee": 100,
+    "isDoctor": true,
+    "createdAt": "2025-12-27T08:53:16.838Z",
+    "updatedAt": "2025-12-27T08:53:16.838Z"
+  },
+  {
+    "_id": "694f9f5a3217bd7c895680f7",
+    "name": "Dr. Tanjima Khatun",
+    "email": "tanjima@gmail.com",
+    "phone": "019876543211",
+    "profilePhoto": "https://img.freepik.com/free-photo/beautiful-young-female-doctor-looking-camera-office_1301-7807.jpg?semt=ais_hybrid&w=740&q=80",
+    "specialization": "Gynocologyst",
+    "qualification": "MBBS",
+    "address": "Shere bangla national medical",
+    "gender": "Female",
+    "age": 28,
+    "fee": 500,
+    "isDoctor": true,
+    "createdAt": "2025-12-27T08:56:58.457Z",
+    "updatedAt": "2025-12-27T08:56:58.457Z"
+  }
+]
